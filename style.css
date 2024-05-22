@@ -1,0 +1,34 @@
+#demo{
+    color: rgb(236, 11, 49);
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+a{
+    color: brown;
+}
+a{
+    font-weight:bolder;
+}
+#remo{
+    color: red;
+}
+#sam{
+    color: red;
+}
+#karim{
+    color: red;
+}
+ #dam{
+    color: red;
+ }   
+ #paw{
+    color: red;
+ }
+ #bom{
+    color: red;
+ }
+ *{
+    text-align: center;
+ }
